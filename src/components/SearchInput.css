@@ -1,0 +1,12 @@
+.color{
+  color: red;
+}
+
+.color2{
+  color: skyblue;
+  transition: 0.5s;
+}
+
+.color3{
+  color: lightgreen;
+}
